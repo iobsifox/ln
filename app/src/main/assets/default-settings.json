@@ -1,0 +1,15 @@
+{
+  "connectionMode": "DOH_DIRECT",
+  "dohDirectProvider": "cloudflare",
+  "dohWorkerEnabled": false,
+  "dohWorkerUrl": "",
+  "dohWorkerUpstream": "cloudflare",
+  "localHttpProxyEnabled": true,
+  "localSocks5Enabled": true,
+  "lanShareEnabled": false,
+  "vpnEnabled": false,
+  "externalCoresEnabled": false,
+  "xrayEnabled": false,
+  "singBoxEnabled": false,
+  "psiphonEnabled": false
+}

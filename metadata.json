@@ -1,0 +1,6 @@
+{
+  "name": "Last Night",
+  "description": "A dark, neon-styled Android proxy tunnel client supporting DoH Direct, DoH Worker, Psiphon, and VPN per-app split tunneling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
